@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Priyanka C -- SE -- <twitter>
 
 # THANKS
 
