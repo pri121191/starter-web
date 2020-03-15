@@ -1,4 +1,4 @@
-Git Training
+Updated Git Training File for Automatic Merges
 
 # Starter Web Repo
 
