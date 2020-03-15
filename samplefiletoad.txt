@@ -1,3 +1,5 @@
+Adding for Stash Branch Example
+
 Git Stash 2
 
 Added for stash example
