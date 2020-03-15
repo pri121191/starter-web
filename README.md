@@ -1,3 +1,5 @@
+Updated for git stash - untracked files example
+
 Updated Git Training File for Automatic Merges
 
 # Starter Web Repo
